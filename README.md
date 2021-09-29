@@ -1,6 +1,7 @@
 # magicball
 
-A new Flutter project.
+Well this application is a challenge.
+
 
 ## Getting Started
 
